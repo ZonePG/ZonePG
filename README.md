@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Computer System and Machine Leaning.
 - ⚡ Code for fun.
 
-[![Rainbow cat's github stats](https://github-readme-stats.vercel.app/api?username=CodeHaotian&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![ZonePG cat's github stats](https://github-readme-stats.vercel.app/api?username=CodeHaotian&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
