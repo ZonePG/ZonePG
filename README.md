@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, I'm ZonePG👋
+## I'm a Student
 
 <!--
 **ZonePG/ZonePG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently studying Computer Science on HFUT.
+- 🌱 I’m currently learning Computer System and Machine Leaning.
+- ⚡ Code for fun.
