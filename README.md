@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 
 - I am currently a master’s student at University of Science and Technology of China.
 
-- [My Resume](https://zonepg.github.io/files/MyResume_cn.pdf)
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=zonepg" />
 </a>
