@@ -1,28 +1,37 @@
-### Hi there, I'm ZonePG👋
-## I'm a Student
+<h2 align="center"> Hi, I'm ZonePG 👋 </h2>
 
-<!--
-**ZonePG/ZonePG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table>
+    <tr>
+        <td valign="center" width="50%">
+            <p align="center">
+              <img src="https://img.shields.io/github/stars/zonepg?style=social" alt="Github stars" />
+              <img src="https://img.shields.io/github/followers/zonepg?style=social" alt="Github followers" />
+            </p>
+            <ul>
+                <li>🌱 I am currently a master’s student at University of Science and Technology of China.</li>
+            </ul>
+        </td>
+       <td valign="top" width="50%">
+    
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C263%20hrs%2040%20mins-blue)
 
-Here are some ideas to get you started:
+📊 **This Week I Spent My Time On** 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```text
+💬 Programming Languages: 
+Other                    43 mins             █████████████████████████   100.00 % 
 
-- I obtained my Bachelor’s degree in computer science from Hefei University of Technology.
+🔥 Editors: 
+VS Code                  43 mins             █████████████████████████   100.00 % 
 
-- I am currently a master’s student at University of Science and Technology of China.
+💻 Operating System: 
+Mac                      43 mins             █████████████████████████   100.00 % 
+```
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=zonepg" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zonepg&exclude_repo=CS61A&layout=compact&langs_count=8&card_width=320" />
-</a>
+
+ Last Updated on 24/06/2023 20:05:42 UTC
+<!--END_SECTION:waka-->
+</td></tr>
+</table>
+
