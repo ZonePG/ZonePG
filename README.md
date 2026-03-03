@@ -12,10 +12,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                103 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
-🌆 Daytime                629 commits         ██████████░░░░░░░░░░░░░░░   39.53 % 
-🌃 Evening                398 commits         ██████░░░░░░░░░░░░░░░░░░░   25.02 % 
-🌙 Night                  461 commits         ███████░░░░░░░░░░░░░░░░░░   28.98 % 
+🌞 Morning                103 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
+🌆 Daytime                629 commits         ██████████░░░░░░░░░░░░░░░   39.56 % 
+🌃 Evening                398 commits         ██████░░░░░░░░░░░░░░░░░░░   25.03 % 
+🌙 Night                  460 commits         ███████░░░░░░░░░░░░░░░░░░   28.93 % 
 ```
 
 
@@ -25,22 +25,23 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   3 hrs 16 mins       █████████████████████████   98.52 % 
-SSH Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
-Protocol Buffer          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Python                   6 hrs 18 mins       ████████████████████████░   97.10 % 
+TOML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+SSH Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+Protocol Buffer          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-Cursor                   3 hrs 19 mins       █████████████████████████   100.00 % 
+Cursor                   6 hrs 29 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-seed_llmserver           2 hrs 28 mins       ███████████████████░░░░░░   74.26 % 
-xperf_gpt                43 mins             █████░░░░░░░░░░░░░░░░░░░░   21.78 % 
-llmserver                4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
-Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+seed_llmserver           5 hrs 25 mins       █████████████████████░░░░   83.55 % 
+xperf_gpt                56 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
+llmserver                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 
 💻 Operating System: 
-Mac                      3 hrs 19 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 29 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
