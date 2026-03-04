@@ -25,23 +25,24 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   6 hrs 18 mins       ████████████████████████░   97.10 % 
-TOML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
-SSH Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
-Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
-Protocol Buffer          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Python                   8 hrs 45 mins       ████████████████████████░   97.19 % 
+SSH Config               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+TOML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-Cursor                   6 hrs 29 mins       █████████████████████████   100.00 % 
+Cursor                   9 hrs               █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-seed_llmserver           5 hrs 25 mins       █████████████████████░░░░   83.55 % 
-xperf_gpt                56 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
-llmserver                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
-Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+seed_llmserver           7 hrs 47 mins       ██████████████████████░░░   86.48 % 
+xperf_gpt                56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
+Unknown Project          6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+llmserver                5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+infir                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
 
 💻 Operating System: 
-Mac                      6 hrs 29 mins       █████████████████████████   100.00 % 
+Mac                      9 hrs               █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
