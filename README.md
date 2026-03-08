@@ -25,25 +25,25 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   9 hrs 3 mins        ████████████████████████░   95.58 % 
-SSH Config               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
-TOML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+Python                   9 hrs 11 mins       ████████████████████████░   95.39 % 
+SSH Config               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
+TOML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
 Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 🔥 Editors: 
-Cursor                   9 hrs 25 mins       █████████████████████████   99.54 % 
-VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+Cursor                   9 hrs 35 mins       █████████████████████████   99.55 % 
+VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 
 🐱‍💻 Projects: 
-seed_llmserver           7 hrs 46 mins       █████████████████████░░░░   82.01 % 
-xperf_gpt                1 hr 24 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
-Unknown Project          9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
-infir                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
-xpu_gpt                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+seed_llmserver           7 hrs 31 mins       ████████████████████░░░░░   78.11 % 
+xperf_gpt                1 hr 37 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
+llguidance               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+Unknown Project          9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+infir                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
 
 💻 Operating System: 
-Mac                      9 hrs 28 mins       █████████████████████████   100.00 % 
+Mac                      9 hrs 38 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
