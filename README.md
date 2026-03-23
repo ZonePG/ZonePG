@@ -25,24 +25,18 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JSON                     1 hr 48 mins        ███████████░░░░░░░░░░░░░░   42.05 % 
-Rust                     1 hr 2 mins         ██████░░░░░░░░░░░░░░░░░░░   24.38 % 
-Go                       30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
-Python                   24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
-Text                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
+Rust                     16 mins             ██████████████░░░░░░░░░░░   54.39 % 
+Text                     8 mins              ███████░░░░░░░░░░░░░░░░░░   28.97 % 
+JSON                     5 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
 
 🔥 Editors: 
-Cursor                   4 hrs 18 mins       █████████████████████████   100.00 % 
+Cursor                   30 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-corplink-rs              3 hrs 22 mins       ████████████████████░░░░░   78.53 % 
-wireguard-go             31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
-seed_llmserver           22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
-infir                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+corplink-rs              30 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 54 mins       ███████████████████████░░   90.60 % 
-Mac                      24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
+Windows                  30 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
