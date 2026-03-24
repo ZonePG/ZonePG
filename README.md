@@ -12,10 +12,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                103 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
-🌆 Daytime                629 commits         ██████████░░░░░░░░░░░░░░░   39.53 % 
-🌃 Evening                398 commits         ██████░░░░░░░░░░░░░░░░░░░   25.02 % 
-🌙 Night                  461 commits         ███████░░░░░░░░░░░░░░░░░░   28.98 % 
+🌞 Morning                103 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
+🌆 Daytime                629 commits         ██████████░░░░░░░░░░░░░░░   39.56 % 
+🌃 Evening                398 commits         ██████░░░░░░░░░░░░░░░░░░░   25.03 % 
+🌙 Night                  460 commits         ███████░░░░░░░░░░░░░░░░░░   28.93 % 
 ```
 
 
@@ -25,18 +25,16 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Rust                     16 mins             ██████████████░░░░░░░░░░░   54.39 % 
-Text                     8 mins              ███████░░░░░░░░░░░░░░░░░░   28.97 % 
-JSON                     5 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   30 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-corplink-rs              30 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  30 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
