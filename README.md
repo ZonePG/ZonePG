@@ -25,17 +25,18 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-SSH Config               16 mins             █████████████░░░░░░░░░░░░   51.51 % 
-JSON                     15 mins             ████████████░░░░░░░░░░░░░   48.49 % 
+JSON                     31 mins             ████████████████░░░░░░░░░   63.68 % 
+SSH Config               16 mins             ████████░░░░░░░░░░░░░░░░░   33.30 % 
+Rust                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
 
 🔥 Editors: 
-Cursor                   32 mins             █████████████████████████   100.00 % 
+Cursor                   49 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-corplink-rs              32 mins             █████████████████████████   100.00 % 
+corplink-rs              49 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  32 mins             █████████████████████████   100.00 % 
+Windows                  49 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
