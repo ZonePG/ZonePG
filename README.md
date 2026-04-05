@@ -25,20 +25,24 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JSON                     31 mins             ███████████████░░░░░░░░░░   58.76 % 
-SSH Config               20 mins             ██████████░░░░░░░░░░░░░░░   38.46 % 
-Rust                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
+JSON                     16 mins             ███████████░░░░░░░░░░░░░░   44.14 % 
+Batchfile                11 mins             ████████░░░░░░░░░░░░░░░░░   30.84 % 
+SSH Config               4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
+Other                    3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
+Rust                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
 
 🔥 Editors: 
-Cursor                   53 mins             █████████████████████████   100.00 % 
+Cursor                   32 mins             ██████████████████████░░░   88.46 % 
+VS Code                  4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
 
 🐱‍💻 Projects: 
-corplink-rs              49 mins             ███████████████████████░░   92.26 % 
-Unknown Project          4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
+corplink-rs              17 mins             ████████████░░░░░░░░░░░░░   48.30 % 
+DockerProject            14 mins             ██████████░░░░░░░░░░░░░░░   40.26 % 
+Unknown Project          4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
 
 💻 Operating System: 
-Windows                  49 mins             ███████████████████████░░   92.26 % 
-Mac                      4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
+Windows                  32 mins             ██████████████████████░░░   88.56 % 
+Mac                      4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
 ```
 
 **I Mostly Code in Python** 
