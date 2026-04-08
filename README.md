@@ -25,21 +25,24 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Batchfile                11 mins             ███████████████░░░░░░░░░░   59.65 % 
-SSH Config               4 mins              ██████░░░░░░░░░░░░░░░░░░░   22.13 % 
-Other                    3 mins              █████░░░░░░░░░░░░░░░░░░░░   18.23 % 
+Other                    1 hr 34 mins        █████████████████████░░░░   85.65 % 
+Batchfile                11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
+SSH Config               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
 
 🔥 Editors: 
-Cursor                   14 mins             ███████████████████░░░░░░   77.67 % 
-VS Code                  4 mins              ██████░░░░░░░░░░░░░░░░░░░   22.33 % 
+Cursor                   1 hr 46 mins        ████████████████████████░   96.22 % 
+VS Code                  4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
 
 🐱‍💻 Projects: 
-DockerProject            14 mins             ███████████████████░░░░░░   77.87 % 
-Unknown Project          4 mins              ██████░░░░░░░░░░░░░░░░░░░   22.13 % 
+buffer_manager           35 mins             ████████░░░░░░░░░░░░░░░░░   31.59 % 
+xperf                    20 mins             █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
+backend                  16 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
+DockerProject            14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
+parallel                 12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
 
 💻 Operating System: 
-Windows                  14 mins             ███████████████████░░░░░░   77.87 % 
-Mac                      4 mins              ██████░░░░░░░░░░░░░░░░░░░   22.13 % 
+Mac                      1 hr 36 mins        ██████████████████████░░░   86.81 % 
+Windows                  14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
 ```
 
 **I Mostly Code in Python** 
