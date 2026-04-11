@@ -25,24 +25,24 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    1 hr 43 mins        ████████████████████░░░░░   81.35 % 
-SSH Config               12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
-Batchfile                11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
+Other                    1 hr 45 mins        █████████████████████░░░░   84.34 % 
+Batchfile                11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
+SSH Config               8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
 
 🔥 Editors: 
-Cursor                   2 hrs 2 mins        ████████████████████████░   96.70 % 
-VS Code                  4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
+Cursor                   2 hrs               ████████████████████████░   96.64 % 
+VS Code                  4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
 
 🐱‍💻 Projects: 
-buffer_manager           35 mins             ███████░░░░░░░░░░░░░░░░░░   27.55 % 
-xperf                    20 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
-backend                  16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
-DockerProject            14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
-Unknown Project          12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
+buffer_manager           35 mins             ███████░░░░░░░░░░░░░░░░░░   28.04 % 
+xperf                    20 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
+backend                  16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
+DockerProject            14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
+parallel                 12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
 
 💻 Operating System: 
-Mac                      1 hr 52 mins        ██████████████████████░░░   88.50 % 
-Windows                  14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
+Mac                      1 hr 50 mins        ██████████████████████░░░   88.29 % 
+Windows                  14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
 ```
 
 **I Mostly Code in Python** 
