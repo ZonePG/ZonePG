@@ -25,26 +25,26 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    4 hrs 38 mins       █████████████░░░░░░░░░░░░   51.39 % 
-Python                   3 hrs 5 mins        █████████░░░░░░░░░░░░░░░░   34.21 % 
-Bash                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
-SSH Config               30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-Cuda                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+Python                   5 hrs 29 mins       ████████████░░░░░░░░░░░░░   47.26 % 
+Other                    4 hrs 17 mins       █████████░░░░░░░░░░░░░░░░   36.98 % 
+Bash                     49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
+SSH Config               38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
+Cuda                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
 
 🔥 Editors: 
-Cursor                   6 hrs 55 mins       ███████████████████░░░░░░   76.70 % 
-Unknown Editor           1 hr 29 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
-VS Code                  37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
+Cursor                   9 hrs 30 mins       ████████████████████░░░░░   81.86 % 
+Unknown Editor           1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
+VS Code                  37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
 
 🐱‍💻 Projects: 
-seed_llmserver           3 hrs 11 mins       █████████░░░░░░░░░░░░░░░░   35.37 % 
-xperf_gpt                1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
-Unknown Project          48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
-config                   46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
-buffer_manager           44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
+seed_llmserver           5 hrs 54 mins       █████████████░░░░░░░░░░░░   50.91 % 
+xperf_gpt                1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
+Unknown Project          48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
+config                   46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
+buffer_manager           44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
 
 💻 Operating System: 
-Mac                      9 hrs 1 min         █████████████████████████   100.00 % 
+Mac                      11 hrs 36 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
