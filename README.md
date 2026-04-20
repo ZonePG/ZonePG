@@ -25,26 +25,25 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   8 hrs 10 mins       ████████████████░░░░░░░░░   63.28 % 
-Other                    2 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   21.04 % 
-Bash                     49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
-SSH Config               34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
-Cuda                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+Python                   9 hrs 26 mins       █████████████████░░░░░░░░   68.04 % 
+Other                    2 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
+Bash                     52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
+Cuda                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
+SSH Config               22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
 
 🔥 Editors: 
-Cursor                   10 hrs 48 mins      █████████████████████░░░░   83.70 % 
-Unknown Editor           1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
-VS Code                  37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
+Cursor                   12 hrs 28 mins      ██████████████████████░░░   89.96 % 
+Unknown Editor           1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
 
 🐱‍💻 Projects: 
-seed_llmserver           8 hrs 14 mins       ████████████████░░░░░░░░░   63.89 % 
-xperf_gpt                1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
-Unknown Project          44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
-buffer_manager           28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
-infir                    23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+seed_llmserver           8 hrs 14 mins       ███████████████░░░░░░░░░░   59.44 % 
+xperf_gpt                1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
+llmserver                57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
+infir                    53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
+Unknown Project          26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
 
 💻 Operating System: 
-Mac                      12 hrs 54 mins      █████████████████████████   100.00 % 
+Mac                      13 hrs 52 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
