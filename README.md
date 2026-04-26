@@ -25,24 +25,25 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   20 hrs 49 mins      ██████████████████░░░░░░░   72.28 % 
-Bash                     2 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
-Cuda                     1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-Other                    50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
-SSH Config               45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+Python                   18 hrs 27 mins      ██████████████████░░░░░░░   70.34 % 
+Bash                     2 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
+Cuda                     1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
+Other                    49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+SSH Config               45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
 
 🔥 Editors: 
-Cursor                   28 hrs 48 mins      █████████████████████████   100.00 % 
+Cursor                   26 hrs 15 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-llmserver                17 hrs 39 mins      ███████████████░░░░░░░░░░   61.30 % 
-infir                    3 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
-seed_llmserver           2 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
-xccl                     1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
-xperf_gpt                1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
+llmserver                17 hrs 54 mins      █████████████████░░░░░░░░   68.22 % 
+infir                    3 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
+xccl                     1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
+serving                  1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+Unknown Project          54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 
 💻 Operating System: 
-Mac                      28 hrs 48 mins      █████████████████████████   100.00 % 
+Mac                      26 hrs 6 mins       █████████████████████████   99.47 % 
+Windows                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 ```
 
 **I Mostly Code in Python** 
