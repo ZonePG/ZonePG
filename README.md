@@ -12,10 +12,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                103 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
-🌆 Daytime                629 commits         ██████████░░░░░░░░░░░░░░░   39.41 % 
-🌃 Evening                402 commits         ██████░░░░░░░░░░░░░░░░░░░   25.19 % 
-🌙 Night                  462 commits         ███████░░░░░░░░░░░░░░░░░░   28.95 % 
+🌞 Morning                103 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
+🌆 Daytime                629 commits         ██████████░░░░░░░░░░░░░░░   39.44 % 
+🌃 Evening                402 commits         ██████░░░░░░░░░░░░░░░░░░░   25.20 % 
+🌙 Night                  461 commits         ███████░░░░░░░░░░░░░░░░░░   28.90 % 
 ```
 
 
@@ -25,18 +25,23 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   20 mins             █████████████████████████   99.24 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+Bash                     23 mins             ███████████████████░░░░░░   77.24 % 
+Python                   4 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
+SSH Config               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
+Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 
 🔥 Editors: 
-Cursor                   20 mins             █████████████████████████   100.00 % 
+Cursor                   30 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-llmserver                20 mins             █████████████████████████   99.24 % 
-xpu_gpt                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+llmserver                27 mins             ███████████████████████░░   92.26 % 
+Unknown Project          1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
+attentions               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+llmserver_bootstrap      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+xpu_gpt                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 
 💻 Operating System: 
-Mac                      20 mins             █████████████████████████   100.00 % 
+Mac                      30 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
