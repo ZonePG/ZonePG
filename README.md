@@ -9,42 +9,6 @@
 -------
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                103 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
-🌆 Daytime                629 commits         ██████████░░░░░░░░░░░░░░░   39.44 % 
-🌃 Evening                402 commits         ██████░░░░░░░░░░░░░░░░░░░   25.20 % 
-🌙 Night                  461 commits         ███████░░░░░░░░░░░░░░░░░░   28.90 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Python                   1 hr 44 mins        ███████████████████░░░░░░   77.82 % 
-Bash                     15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
-Rust                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
-Other                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
-Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
-
-🔥 Editors: 
-Cursor                   2 hrs 14 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-llmserver                1 hr 16 mins        ██████████████░░░░░░░░░░░   56.84 % 
-xpu_gpt                  26 mins             █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
-xperf_gpt                9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
-llguidance               8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
-infir                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
-
-💻 Operating System: 
-Mac                      2 hrs 14 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
