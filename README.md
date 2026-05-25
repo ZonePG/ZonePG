@@ -9,6 +9,42 @@
 -------
 
 <!--START_SECTION:waka-->
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                103 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
+🌆 Daytime                629 commits         ██████████░░░░░░░░░░░░░░░   39.44 % 
+🌃 Evening                402 commits         ██████░░░░░░░░░░░░░░░░░░░   25.20 % 
+🌙 Night                  461 commits         ███████░░░░░░░░░░░░░░░░░░   28.90 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Python                   43 mins             ███████████████░░░░░░░░░░   58.04 % 
+Markdown                 11 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
+JSON                     9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
+Other                    5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
+Bash                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
+
+🔥 Editors: 
+Cursor                   1 hr 14 mins        █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+llmserver                33 mins             ███████████░░░░░░░░░░░░░░   44.85 % 
+infir                    17 mins             ██████░░░░░░░░░░░░░░░░░░░   23.72 % 
+gpu_constraint           13 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
+serving                  5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
+llmserver_bootstrap      4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
+
+💻 Operating System: 
+Mac                      1 hr 14 mins        █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
