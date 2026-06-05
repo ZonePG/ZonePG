@@ -25,18 +25,18 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   38 mins             █████████████████████████   99.96 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Python                   14 mins             █████████████████████████   99.89 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🔥 Editors: 
-VS Code                  38 mins             █████████████████████████   100.00 % 
+VS Code                  14 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-llmserver                24 mins             ████████████████░░░░░░░░░   64.00 % 
-infir                    13 mins             █████████░░░░░░░░░░░░░░░░   36.00 % 
+infir                    13 mins             ████████████████████████░   94.82 % 
+llmserver                0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
 
 💻 Operating System: 
-Mac                      38 mins             █████████████████████████   100.00 % 
+Mac                      14 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
