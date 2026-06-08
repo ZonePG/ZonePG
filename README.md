@@ -25,24 +25,25 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-SSH Config               20 mins             ███████░░░░░░░░░░░░░░░░░░   29.30 % 
-Markdown                 16 mins             ██████░░░░░░░░░░░░░░░░░░░   23.74 % 
-Python                   13 mins             █████░░░░░░░░░░░░░░░░░░░░   18.90 % 
-Other                    10 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
-Bash                     8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
+Other                    1 hr 5 mins         ███████░░░░░░░░░░░░░░░░░░   27.80 % 
+JavaScript               1 hr 4 mins         ███████░░░░░░░░░░░░░░░░░░   27.50 % 
+Markdown                 23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
+SSH Config               20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
+Docker                   19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
 
 🔥 Editors: 
-VS Code                  1 hr 9 mins         █████████████████████████   100.00 % 
+VS Code                  3 hrs 45 mins       ████████████████████████░   95.83 % 
+Cursor                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
 
 🐱‍💻 Projects: 
-serving                  20 mins             ███████░░░░░░░░░░░░░░░░░░   28.89 % 
-seed-infra-cli           16 mins             ██████░░░░░░░░░░░░░░░░░░░   23.74 % 
-llmserver                13 mins             █████░░░░░░░░░░░░░░░░░░░░   19.09 % 
-app                      10 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
-infir                    6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
+seed-infra-cli           59 mins             ██████░░░░░░░░░░░░░░░░░░░   25.43 % 
+cli-https-open-feishu-cn-56 mins             ██████░░░░░░░░░░░░░░░░░░░   24.01 % 
+chrome-code-this-item-is-28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
+serving                  20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
+Unknown Project          15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
 
 💻 Operating System: 
-Mac                      1 hr 9 mins         █████████████████████████   100.00 % 
+Mac                      3 hrs 55 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
