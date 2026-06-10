@@ -25,25 +25,25 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    1 hr 10 mins        ██████░░░░░░░░░░░░░░░░░░░   24.69 % 
-JavaScript               1 hr 4 mins         ██████░░░░░░░░░░░░░░░░░░░   22.55 % 
-Markdown                 42 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
-Python                   28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
-Bash                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
+Bash                     2 hrs 36 mins       █████████░░░░░░░░░░░░░░░░   36.99 % 
+Other                    1 hr 10 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
+JavaScript               1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
+Markdown                 42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
+Python                   28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 35 mins       ████████████████████████░   95.80 % 
-Cursor                   12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
+VS Code                  6 hrs 49 mins       ████████████████████████░   97.14 % 
+Cursor                   12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
 
 🐱‍💻 Projects: 
-seed-infra-cli           59 mins             █████░░░░░░░░░░░░░░░░░░░░   20.86 % 
-cli-https-open-feishu-cn-56 mins             █████░░░░░░░░░░░░░░░░░░░░   19.70 % 
-serving                  41 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
-chrome-code-this-item-is-28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
-Unknown Project          22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
+serving                  1 hr 3 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
+seed-infra-cli           59 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
+cli-https-open-feishu-cn-56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
+chrome-code-this-item-is-28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
+review-mr-https-code-byte22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
 
 💻 Operating System: 
-Mac                      4 hrs 47 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
