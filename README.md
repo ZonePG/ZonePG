@@ -25,25 +25,25 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Bash                     2 hrs 36 mins       █████████░░░░░░░░░░░░░░░░   36.99 % 
-Other                    1 hr 10 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
-JavaScript               1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
-Markdown                 42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
-Python                   28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
+Bash                     2 hrs 36 mins       ████████░░░░░░░░░░░░░░░░░   30.34 % 
+Python                   1 hr 46 mins        █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
+Other                    1 hr 26 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
+JavaScript               1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
+Markdown                 42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 49 mins       ████████████████████████░   97.14 % 
-Cursor                   12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+VS Code                  8 hrs 24 mins       ████████████████████████░   97.66 % 
+Cursor                   12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
 
 🐱‍💻 Projects: 
-serving                  1 hr 3 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
-seed-infra-cli           59 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
-cli-https-open-feishu-cn-56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
-chrome-code-this-item-is-28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
-review-mr-https-code-byte22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
+serving                  1 hr 15 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
+seed-infra-cli           59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
+cli-https-open-feishu-cn-56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
+6-6-9-6-3-2027           36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+infir                    36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
 
 💻 Operating System: 
-Mac                      7 hrs 1 min         █████████████████████████   100.00 % 
+Mac                      8 hrs 36 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
