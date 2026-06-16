@@ -25,25 +25,24 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Bash                     2 hrs 33 mins       ████████████░░░░░░░░░░░░░   46.57 % 
-Python                   1 hr 43 mins        ████████░░░░░░░░░░░░░░░░░   31.42 % 
-JavaScript               31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
-Other                    22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
-Markdown                 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
+Bash                     2 hrs 20 mins       ████████████░░░░░░░░░░░░░   48.99 % 
+Python                   1 hr 25 mins        ███████░░░░░░░░░░░░░░░░░░   29.75 % 
+JavaScript               44 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
+Other                    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 27 mins       █████████████████████████   99.32 % 
-Cursor                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+VS Code                  4 hrs 47 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-serving                  55 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
-6-6-9-6-3-2027           36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
-infir                    35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
-https-bytedance-larkoffic29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
-review-mr-https-code-byte22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
+6-6-9-6-3-2027           36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
+infir                    35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
+serving                  34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+https-bytedance-larkoffic29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
+review-mr-https-code-byte22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
 
 💻 Operating System: 
-Mac                      5 hrs 29 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 47 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
