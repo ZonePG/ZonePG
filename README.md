@@ -12,10 +12,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                103 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
-🌆 Daytime                629 commits         ██████████░░░░░░░░░░░░░░░   39.41 % 
-🌃 Evening                403 commits         ██████░░░░░░░░░░░░░░░░░░░   25.25 % 
-🌙 Night                  461 commits         ███████░░░░░░░░░░░░░░░░░░   28.88 % 
+🌞 Morning                103 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
+🌆 Daytime                627 commits         ██████████░░░░░░░░░░░░░░░   39.41 % 
+🌃 Evening                401 commits         ██████░░░░░░░░░░░░░░░░░░░   25.20 % 
+🌙 Night                  460 commits         ███████░░░░░░░░░░░░░░░░░░   28.91 % 
 ```
 
 
@@ -25,21 +25,21 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   1 hr                ██████████░░░░░░░░░░░░░░░   41.76 % 
-Other                    55 mins             ██████████░░░░░░░░░░░░░░░   38.61 % 
-TypeScript               13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
-JavaScript               12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
+Other                    1 hr 2 mins         ███████████░░░░░░░░░░░░░░   43.12 % 
+Python                   52 mins             █████████░░░░░░░░░░░░░░░░   36.06 % 
+TypeScript               13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
+JavaScript               12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
 SSH Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
 
 🔥 Editors: 
 VS Code                  2 hrs 24 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-llmserver                37 mins             ███████░░░░░░░░░░░░░░░░░░   26.08 % 
-linux-data01-zoupeng-200123 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
-infir                    23 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
-code                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
-review-commit-https-code-8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
+llmserver                36 mins             ██████░░░░░░░░░░░░░░░░░░░   25.32 % 
+linux-data01-zoupeng-200123 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
+infir                    16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
+code                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+review-commit-https-code-8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
 
 💻 Operating System: 
 Mac                      2 hrs 24 mins       █████████████████████████   100.00 % 
