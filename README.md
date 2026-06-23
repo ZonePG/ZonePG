@@ -25,24 +25,24 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    1 hr 2 mins         ███████████░░░░░░░░░░░░░░   43.12 % 
-Python                   52 mins             █████████░░░░░░░░░░░░░░░░   36.06 % 
-TypeScript               13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
-JavaScript               12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
-SSH Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+Other                    2 hrs 32 mins       █████████████░░░░░░░░░░░░   52.81 % 
+Python                   1 hr 58 mins        ██████████░░░░░░░░░░░░░░░   41.04 % 
+TypeScript               13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+SSH Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 24 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 49 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-llmserver                36 mins             ██████░░░░░░░░░░░░░░░░░░░   25.32 % 
-linux-data01-zoupeng-200123 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
-infir                    16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
-code                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-review-commit-https-code-8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
+llmserver                1 hr 41 mins        █████████░░░░░░░░░░░░░░░░   35.20 % 
+serving                  33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
+https-bytedance-larkoffic25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
+linux-data01-zoupeng-200123 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
+infir                    17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
 
 💻 Operating System: 
-Mac                      2 hrs 24 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 49 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
