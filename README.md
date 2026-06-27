@@ -25,24 +25,23 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    1 hr 41 mins        ███████████████░░░░░░░░░░   58.61 % 
-Python                   1 hr 9 mins         ██████████░░░░░░░░░░░░░░░   40.35 % 
-TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+Python                   1 hr 49 mins        █████████████░░░░░░░░░░░░   53.63 % 
+Other                    1 hr 34 mins        ████████████░░░░░░░░░░░░░   46.35 % 
 Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 52 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 23 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-llmserver                1 hr 8 mins         ██████████░░░░░░░░░░░░░░░   39.59 % 
-serving                  27 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
-https-bytedance-larkoffic25 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
-https-bytedance-larkoffic15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
-traceback-most-recent-cal15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
+llmserver                1 hr 18 mins        ██████████░░░░░░░░░░░░░░░   38.65 % 
+xpu_gpt                  27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
+serving                  26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
+https-bytedance-larkoffic25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
+https-bytedance-larkoffic15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
 
 💻 Operating System: 
-Mac                      2 hrs 52 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
