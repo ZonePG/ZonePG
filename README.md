@@ -25,21 +25,19 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   40 mins             ███████████████████░░░░░░   77.17 % 
-Other                    12 mins             ██████░░░░░░░░░░░░░░░░░░░   22.83 % 
+Other                    12 mins             █████████████████████████   99.97 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-VS Code                  52 mins             █████████████████████████   100.00 % 
+VS Code                  12 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-xpu_gpt                  27 mins             █████████████░░░░░░░░░░░░   52.03 % 
-bonus-torch-multinomial-b11 mins             ██████░░░░░░░░░░░░░░░░░░░   22.39 % 
-llmserver                11 mins             █████░░░░░░░░░░░░░░░░░░░░   21.78 % 
-infir                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
-requirement-already-satis0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+bonus-torch-multinomial-b11 mins             █████████████████████████   98.03 % 
+requirement-already-satis0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+infir                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Mac                      52 mins             █████████████████████████   100.00 % 
+Mac                      12 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
