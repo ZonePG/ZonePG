@@ -25,19 +25,19 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    12 mins             █████████████████████████   99.97 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Other                    9 mins              ██████████████████████░░░   87.74 % 
+Bash                     1 min               ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
 
 🔥 Editors: 
-VS Code                  12 mins             █████████████████████████   100.00 % 
+VS Code                  11 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-bonus-torch-multinomial-b11 mins             █████████████████████████   98.03 % 
-requirement-already-satis0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
-infir                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+can-k                    8 mins              ███████████████████░░░░░░   75.72 % 
+llmserver                1 min               ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
+https-bytedance-larkoffic1 min               ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
 
 💻 Operating System: 
-Mac                      12 mins             █████████████████████████   100.00 % 
+Mac                      11 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
