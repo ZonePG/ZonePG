@@ -25,18 +25,18 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    17 mins             ███████████████████████░░   90.94 % 
-Bash                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
+Other                    17 mins             ███████████████████████░░   92.55 % 
+Bash                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
 
 🔥 Editors: 
 VS Code                  18 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-can-k                    8 mins              ███████████░░░░░░░░░░░░░░   45.22 % 
-jie-s                    5 mins              ███████░░░░░░░░░░░░░░░░░░   27.82 % 
-https-bytedance-larkoffic2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
-llmserver                1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
-https-seed-bytedance-net-0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
+can-k                    8 mins              ████████████░░░░░░░░░░░░░   46.02 % 
+jie-s                    5 mins              ███████░░░░░░░░░░░░░░░░░░   28.31 % 
+https-bytedance-larkoffic2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
+llmserver                1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
+https-seed-bytedance-net-0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
 
 💻 Operating System: 
 Mac                      18 mins             █████████████████████████   100.00 % 
