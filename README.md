@@ -25,21 +25,18 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    17 mins             ███████████████████████░░   92.55 % 
-Bash                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
+Other                    7 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  18 mins             █████████████████████████   100.00 % 
+VS Code                  7 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-can-k                    8 mins              ████████████░░░░░░░░░░░░░   46.02 % 
-jie-s                    5 mins              ███████░░░░░░░░░░░░░░░░░░   28.31 % 
-https-bytedance-larkoffic2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
-llmserver                1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
-https-seed-bytedance-net-0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
+jie-s                    5 mins              ██████████████████░░░░░░░   72.18 % 
+https-bytedance-larkoffic1 min               ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
+https-seed-bytedance-net-0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
 
 💻 Operating System: 
-Mac                      18 mins             █████████████████████████   100.00 % 
+Mac                      7 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
