@@ -25,18 +25,22 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    7 mins              █████████████████████████   100.00 % 
+Other                    1 hr 17 mins        █████████████████████████   98.80 % 
+Rust                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 
 🔥 Editors: 
-VS Code                  7 mins              █████████████████████████   100.00 % 
+VS Code                  1 hr 18 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-jie-s                    5 mins              ██████████████████░░░░░░░   72.18 % 
-https-bytedance-larkoffic1 min               ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
-https-seed-bytedance-net-0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+j                        15 mins             █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
+tian                     14 mins             █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
+https-bytedance-larkoffic13 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.51 % 
+https-seed-bytedance-net-12 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
+dist-send-object-list-met5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
 
 💻 Operating System: 
-Mac                      7 mins              █████████████████████████   100.00 % 
+Mac                      1 hr 18 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
