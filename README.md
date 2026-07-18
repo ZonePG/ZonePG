@@ -25,24 +25,25 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    1 hr 17 mins        ████████████████████████░   95.57 % 
-Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
-Rust                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+Other                    1 hr                ████████████████████████░   95.63 % 
+Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+Rust                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🔥 Editors: 
-VS Code                  1 hr 21 mins        █████████████████████████   100.00 % 
+VS Code                  44 mins             ██████████████████░░░░░░░   71.13 % 
+Unknown Editor           18 mins             ███████░░░░░░░░░░░░░░░░░░   28.87 % 
 
 🐱‍💻 Projects: 
-j                        15 mins             █████░░░░░░░░░░░░░░░░░░░░   19.56 % 
-tian                     14 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-https-bytedance-larkoffic13 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
-https-seed-bytedance-net-12 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
-dist-send-object-list-met5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
+j                        15 mins             ██████░░░░░░░░░░░░░░░░░░░   25.20 % 
+tian                     14 mins             ██████░░░░░░░░░░░░░░░░░░░   22.74 % 
+https-bytedance-larkoffic13 mins             █████░░░░░░░░░░░░░░░░░░░░   21.82 % 
+dist-send-object-list-met5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
+x-guidance-whitespace-fle3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
 
 💻 Operating System: 
-Mac                      1 hr 21 mins        █████████████████████████   100.00 % 
+Mac                      44 mins             ██████████████████░░░░░░░   71.13 % 
+Unknown OS               18 mins             ███████░░░░░░░░░░░░░░░░░░   28.87 % 
 ```
 
 **I Mostly Code in Python** 
