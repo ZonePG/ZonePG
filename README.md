@@ -25,25 +25,23 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    1 hr                ████████████████████████░   95.63 % 
-Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
-Rust                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Other                    16 mins             █████████████████████░░░░   85.90 % 
+Markdown                 1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
+Python                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
+Rust                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 
 🔥 Editors: 
-VS Code                  44 mins             ██████████████████░░░░░░░   71.13 % 
-Unknown Editor           18 mins             ███████░░░░░░░░░░░░░░░░░░   28.87 % 
+VS Code                  19 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-j                        15 mins             ██████░░░░░░░░░░░░░░░░░░░   25.20 % 
-tian                     14 mins             ██████░░░░░░░░░░░░░░░░░░░   22.74 % 
-https-bytedance-larkoffic13 mins             █████░░░░░░░░░░░░░░░░░░░░   21.82 % 
-dist-send-object-list-met5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
-x-guidance-whitespace-fle3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
+tian                     7 mins              █████████░░░░░░░░░░░░░░░░   37.37 % 
+x-guidance-whitespace-fle3 mins              █████░░░░░░░░░░░░░░░░░░░░   20.24 % 
+a                        3 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
+llguidance               1 min               ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
+hello                    1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
 
 💻 Operating System: 
-Mac                      44 mins             ██████████████████░░░░░░░   71.13 % 
-Unknown OS               18 mins             ███████░░░░░░░░░░░░░░░░░░   28.87 % 
+Mac                      19 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
