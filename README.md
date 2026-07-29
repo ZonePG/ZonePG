@@ -9,8 +9,6 @@
 -------
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-40%20hrs%2033%20mins-blue?style=flat)
-
 **I'm a Night 🦉** 
 
 ```text
@@ -27,39 +25,39 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JavaScript               1 hr 33 mins        ██████░░░░░░░░░░░░░░░░░░░   22.55 % 
-Other                    1 hr 25 mins        █████░░░░░░░░░░░░░░░░░░░░   20.48 % 
-Markdown                 1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
-Python                   1 hr                ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
-HTML                     52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
+Other                    1 hr 55 mins        ██████░░░░░░░░░░░░░░░░░░░   25.85 % 
+JavaScript               1 hr 33 mins        █████░░░░░░░░░░░░░░░░░░░░   21.03 % 
+Markdown                 1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
+Python                   1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
+HTML                     52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 56 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs 26 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-nasi                     3 hrs 33 mins       █████████████░░░░░░░░░░░░   51.40 % 
-corplink-rs              44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
-shi                      40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
-BR7-巴芒套件7.20版本           38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
-serving                  37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
+nasi                     4 hrs 4 mins        ██████████████░░░░░░░░░░░   54.68 % 
+corplink-rs              44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
+shi                      40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
+BR7-巴芒套件7.20版本           38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
+serving                  37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
 
 💻 Operating System: 
-Mac                      6 hrs 11 mins       ██████████████████████░░░   89.36 % 
-Windows                  44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
+Mac                      6 hrs 41 mins       ███████████████████████░░   90.08 % 
+Windows                  44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 39 mins (96.13%)
+⏱ AI Coding Time: 7 hrs 10 mins (96.39%)
 
 ✍️ 5,398 lines written by AI, 3 lines written by hand (99.94% AI-written)
 
-🔤 88,357,888 Input Tokens, 356,759 Output Tokens
+🔤 90,951,760 Input Tokens, 358,649 Output Tokens
 
-💵 $445.55 Estimated AI Cost This Week
+💵 $458.58 Estimated AI Cost This Week
 
-🧠 23 AI Sessions, 65 AI Prompts
+🧠 24 AI Sessions, 65 AI Prompts
 
 GPT                      5,421 lines         █████████████████████████   100.00 % 
 
