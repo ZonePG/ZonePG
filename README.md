@@ -9,15 +9,15 @@
 -------
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-53%20hrs%2012%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-54%20hrs%205%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
 🌞 Morning                103 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
-🌆 Daytime                629 commits         ██████████░░░░░░░░░░░░░░░   39.41 % 
-🌃 Evening                403 commits         ██████░░░░░░░░░░░░░░░░░░░   25.25 % 
-🌙 Night                  461 commits         ███████░░░░░░░░░░░░░░░░░░   28.88 % 
+🌆 Daytime                629 commits         ██████████░░░░░░░░░░░░░░░   39.39 % 
+🌃 Evening                403 commits         ██████░░░░░░░░░░░░░░░░░░░   25.23 % 
+🌙 Night                  462 commits         ███████░░░░░░░░░░░░░░░░░░   28.93 % 
 ```
 
 
@@ -27,46 +27,46 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    7 hrs 40 mins       █████████████░░░░░░░░░░░░   52.95 % 
-YAML                     2 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
-Python                   1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
-Bash                     1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-Markdown                 30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
+Other                    7 hrs 49 mins       ████████████░░░░░░░░░░░░░   48.27 % 
+Python                   3 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   19.50 % 
+YAML                     2 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
+Bash                     1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
+Markdown                 30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 30 mins      █████████████████████████   100.00 % 
+VS Code                  16 hrs 13 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-nasi                     6 hrs 26 mins       ███████████░░░░░░░░░░░░░░   44.40 % 
-serving                  2 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
-https-ml-bytedance-net-de1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-xperf_evo                55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
-llmserver                43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
+nasi                     6 hrs 37 mins       ██████████░░░░░░░░░░░░░░░   40.83 % 
+serving                  2 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
+https-ml-bytedance-net-de1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
+zh                       1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
+xperf_evo                55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
 
 💻 Operating System: 
-Mac                      14 hrs 30 mins      █████████████████████████   100.00 % 
+Mac                      16 hrs 13 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 35 mins (93.78%)
+⏱ AI Coding Time: 15 hrs 6 mins (93.15%)
 
-✍️ 1,699 lines written by AI, 14 lines written by hand (99.18% AI-written)
+✍️ 2,124 lines written by AI, 15 lines written by hand (99.3% AI-written)
 
-🔤 218,858,933 Input Tokens, 719,052 Output Tokens
+🔤 287,974,771 Input Tokens, 794,358 Output Tokens
 
-💵 $937.54 Estimated AI Cost This Week
+💵 $1261.12 Estimated AI Cost This Week
 
-🧠 35 AI Sessions, 120 AI Prompts
+🧠 33 AI Sessions, 177 AI Prompts
 
-GPT                      1,693 lines         █████████████████████████   100.00 % 
+GPT                      2,118 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.18% of written lines came from AI
-📚 Verbose Prompter — average 10,487 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 1.45% of changed lines were hand-edited
+🤖 AI-Driven — 99.3% of written lines came from AI
+📚 Verbose Prompter — average 9,830 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 1.26% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
