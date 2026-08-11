@@ -15,9 +15,9 @@
 
 ```text
 🌞 Morning                103 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
-🌆 Daytime                629 commits         ██████████░░░░░░░░░░░░░░░   39.39 % 
-🌃 Evening                403 commits         ██████░░░░░░░░░░░░░░░░░░░   25.23 % 
-🌙 Night                  462 commits         ███████░░░░░░░░░░░░░░░░░░   28.93 % 
+🌆 Daytime                630 commits         ██████████░░░░░░░░░░░░░░░   39.42 % 
+🌃 Evening                403 commits         ██████░░░░░░░░░░░░░░░░░░░   25.22 % 
+🌙 Night                  462 commits         ███████░░░░░░░░░░░░░░░░░░   28.91 % 
 ```
 
 
@@ -27,46 +27,46 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    8 hrs 45 mins       ███████████░░░░░░░░░░░░░░   42.46 % 
-Ruby                     4 hrs 41 mins       ██████░░░░░░░░░░░░░░░░░░░   22.71 % 
-Python                   3 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
-Markdown                 1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
-YAML                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
+Other                    9 hrs 8 mins        ██████████░░░░░░░░░░░░░░░   40.61 % 
+Ruby                     4 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   20.81 % 
+Python                   3 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
+Markdown                 2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
+YAML                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
 
 🔥 Editors: 
-VS Code                  20 hrs 38 mins      █████████████████████████   100.00 % 
+VS Code                  22 hrs 31 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-nasi                     6 hrs 44 mins       ████████░░░░░░░░░░░░░░░░░   32.64 % 
-serving                  6 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   32.19 % 
-evo-h20-to-h20-https-seed1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
-llmserver                1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
-zh                       1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
+nasi                     7 hrs 42 mins       █████████░░░░░░░░░░░░░░░░   34.24 % 
+serving                  7 hrs 10 mins       ████████░░░░░░░░░░░░░░░░░   31.88 % 
+llmserver                2 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
+evo-h20-to-h20-https-seed1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
+zh                       1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
 
 💻 Operating System: 
-Mac                      20 hrs 38 mins      █████████████████████████   100.00 % 
+Mac                      22 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 19 hrs 53 mins (96.38%)
+⏱ AI Coding Time: 20 hrs 53 mins (92.77%)
 
-✍️ 3,809 lines written by AI, 15 lines written by hand (99.61% AI-written)
+✍️ 2,721 lines written by AI, 29 lines written by hand (98.95% AI-written)
 
-🔤 418,088,444 Input Tokens, 889,942 Output Tokens
+🔤 401,228,048 Input Tokens, 919,295 Output Tokens
 
-💵 $1628.67 Estimated AI Cost This Week
+💵 $1593.45 Estimated AI Cost This Week
 
-🧠 42 AI Sessions, 428 AI Prompts
+🧠 47 AI Sessions, 445 AI Prompts
 
-GPT                      2,969 lines         █████████████████████████   100.00 % 
+GPT                      2,747 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.61% of written lines came from AI
-📚 Verbose Prompter — average 10,608 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 0.8% of changed lines were hand-edited
+🤖 AI-Driven — 98.95% of written lines came from AI
+📚 Verbose Prompter — average 10,240 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 1.82% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
