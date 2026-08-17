@@ -27,45 +27,46 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 5 hrs 12 mins       ██████████░░░░░░░░░░░░░░░   39.67 % 
-Other                    3 hrs 50 mins       ███████░░░░░░░░░░░░░░░░░░   29.24 % 
-Python                   1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
-JSON                     1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
-Bash                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+Markdown                 5 hrs 13 mins       █████████░░░░░░░░░░░░░░░░   36.36 % 
+Other                    5 hrs 3 mins        █████████░░░░░░░░░░░░░░░░   35.21 % 
+Python                   1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
+JSON                     1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
+Bash                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 52 mins       █████████████████░░░░░░░░   67.53 % 
-Codex Vscode             4 hrs 16 mins       ████████░░░░░░░░░░░░░░░░░   32.47 % 
+VS Code                  8 hrs 53 mins       ███████████████░░░░░░░░░░   61.83 % 
+Codex Vscode             5 hrs 29 mins       ██████████░░░░░░░░░░░░░░░   38.17 % 
 
 🐱‍💻 Projects: 
-nasi                     6 hrs 34 mins       █████████████░░░░░░░░░░░░   50.07 % 
-serving                  2 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
-llmserver                1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
-950PR                    44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
-https-bytedance-larkoffic29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+nasi                     6 hrs 34 mins       ███████████░░░░░░░░░░░░░░   45.78 % 
+serving                  2 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
+llmserver                1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
+950PR                    44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
+w                        38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
 
 💻 Operating System: 
-Mac                      13 hrs 8 mins       █████████████████████████   100.00 % 
+Mac                      13 hrs 8 mins       ███████████████████████░░   91.43 % 
+Windows                  1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 51 mins (90.19%)
+⏱ AI Coding Time: 13 hrs 5 mins (91.04%)
 
 ✍️ 1,178 lines written by AI, 28 lines written by hand (97.68% AI-written)
 
-🔤 12,591,269 Input Tokens, 646,978 Output Tokens
+🔤 12,761,453 Input Tokens, 658,035 Output Tokens
 
-💵 $162.50 Estimated AI Cost This Week
+💵 $164.09 Estimated AI Cost This Week
 
-🧠 61 AI Sessions, 162 AI Prompts
+🧠 68 AI Sessions, 176 AI Prompts
 
 GPT                      1,220 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 97.68% of written lines came from AI
-📚 Verbose Prompter — average 9,604 characters per prompt
+📚 Verbose Prompter — average 8,917 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 3.02% of changed lines were hand-edited
 ```
