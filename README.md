@@ -9,7 +9,7 @@
 -------
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-102%20hrs%2010%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-107%20hrs%2030%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -27,49 +27,49 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   13 hrs 55 mins      ██████████░░░░░░░░░░░░░░░   38.07 % 
-JSON                     9 hrs 53 mins       ███████░░░░░░░░░░░░░░░░░░   27.04 % 
-YAML                     4 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
-Other                    3 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
-Markdown                 2 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
+Python                   13 hrs 56 mins      ███████████░░░░░░░░░░░░░░   44.82 % 
+JSON                     6 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   19.56 % 
+YAML                     4 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
+Other                    3 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
+Markdown                 1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
 
 🔥 Editors: 
-VS Code                  22 hrs 36 mins      ███████████████░░░░░░░░░░   61.80 % 
-Codex Vscode             13 hrs 58 mins      ██████████░░░░░░░░░░░░░░░   38.20 % 
+VS Code                  18 hrs 49 mins      ███████████████░░░░░░░░░░   60.51 % 
+Codex Vscode             12 hrs 17 mins      ██████████░░░░░░░░░░░░░░░   39.49 % 
 
 🐱‍💻 Projects: 
-evo 2                    15 hrs 10 mins      ██████████░░░░░░░░░░░░░░░   41.51 % 
-serving                  10 hrs 1 min        ███████░░░░░░░░░░░░░░░░░░   27.42 % 
-nasi                     2 hrs 10 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
-xpu_gpt_push.Gis3yX      1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
-repo                     1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+evo 2                    15 hrs 15 mins      ████████████░░░░░░░░░░░░░   49.02 % 
+serving                  5 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
+投资                       1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+xpu_gpt_push.Gis3yX      1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
+repo                     1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
 
 💻 Operating System: 
-Mac                      35 hrs 20 mins      ████████████████████████░   96.63 % 
-Windows                  1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
+Mac                      29 hrs 53 mins      ████████████████████████░   96.04 % 
+Windows                  1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 35 hrs 29 mins (97.03%)
+⏱ AI Coding Time: 29 hrs 59 mins (96.41%)
 
-✍️ 4,811 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 4,419 lines written by AI, 2 lines written by hand (99.95% AI-written)
 
-🔤 198,413,555 Input Tokens, 15,282,069 Output Tokens
+🔤 133,402,171 Input Tokens, 10,275,635 Output Tokens
 
-💵 $1080.52 Estimated AI Cost This Week
+💵 $831.55 Estimated AI Cost This Week
 
-🧠 160 AI Sessions, 1681 AI Prompts
+🧠 156 AI Sessions, 1263 AI Prompts
 
-GPT                      5,251 lines         █████████████████████████   98.76 % 
-Codex-Vscode             66 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+GPT                      4,832 lines         █████████████████████████   99.14 % 
+Codex-Vscode             42 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 13,871 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 3.94% of changed lines were hand-edited
+🤖 AI-Driven — 99.95% of written lines came from AI
+📚 Verbose Prompter — average 12,495 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 3.49% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
