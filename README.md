@@ -9,15 +9,15 @@
 -------
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-146%20hrs%201%20min-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-148%20hrs%2019%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                103 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
-🌆 Daytime                630 commits         ██████████░░░░░░░░░░░░░░░   39.42 % 
-🌃 Evening                403 commits         ██████░░░░░░░░░░░░░░░░░░░   25.22 % 
-🌙 Night                  462 commits         ███████░░░░░░░░░░░░░░░░░░   28.91 % 
+🌞 Morning                103 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
+🌆 Daytime                630 commits         ██████████░░░░░░░░░░░░░░░   39.55 % 
+🌃 Evening                403 commits         ██████░░░░░░░░░░░░░░░░░░░   25.30 % 
+🌙 Night                  457 commits         ███████░░░░░░░░░░░░░░░░░░   28.69 % 
 ```
 
 
@@ -27,57 +27,57 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   7 hrs 21 mins       ██████████░░░░░░░░░░░░░░░   39.53 % 
-JSON                     4 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   23.26 % 
-Markdown                 3 hrs 55 mins       █████░░░░░░░░░░░░░░░░░░░░   21.10 % 
-Other                    1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
-YAML                     1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
+Python                   4 hrs 56 mins       █████████░░░░░░░░░░░░░░░░   37.67 % 
+JSON                     3 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   26.95 % 
+Markdown                 2 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   21.99 % 
+Other                    1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
+C++                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 
 🔥 Editors: 
-Codex Vscode             11 hrs 53 mins      ████████████████░░░░░░░░░   63.85 % 
-VS Code                  6 hrs 43 mins       █████████░░░░░░░░░░░░░░░░   36.15 % 
+Codex Vscode             8 hrs 36 mins       ████████████████░░░░░░░░░   65.71 % 
+VS Code                  4 hrs 29 mins       █████████░░░░░░░░░░░░░░░░   34.29 % 
 
 🐱‍💻 Projects: 
-evo 2                    8 hrs 6 mins        ███████████░░░░░░░░░░░░░░   43.58 % 
-xpu_gpt                  3 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-serving                  3 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
-llmserver                2 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
-投资                       31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
+evo 2                    5 hrs 44 mins       ███████████░░░░░░░░░░░░░░   43.75 % 
+serving                  2 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
+xpu_gpt                  1 hr 57 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
+llmserver                1 hr 52 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
+投资                       31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
 
 💻 Operating System: 
-Mac                      18 hrs 37 mins      █████████████████████████   100.00 % 
+Mac                      13 hrs 6 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 23 mins (93.37%)
+⏱ AI Coding Time: 11 hrs 45 mins (89.74%)
 
-✍️ 2,395 lines written by AI, 275 lines written by hand (89.7% AI-written)
+✍️ 2,092 lines written by AI, 266 lines written by hand (88.72% AI-written)
 
-🔤 281,696,536 Input Tokens, 28,072,689 Output Tokens
+🔤 193,171,252 Input Tokens, 19,146,882 Output Tokens
 
-💵 $1760.32 Estimated AI Cost This Week
+💵 $753.10 Estimated AI Cost This Week
 
-🧠 100 AI Sessions, 250 AI Prompts
+🧠 60 AI Sessions, 162 AI Prompts
 
-GPT                      3,367 lines         █████████████████████████   100.00 % 
+GPT                      2,526 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 89.7% of written lines came from AI
-📚 Verbose Prompter — average 5,909 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 9.02% of changed lines were hand-edited
+🤖 AI-Driven — 88.72% of written lines came from AI
+📚 Verbose Prompter — average 5,843 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 11.31% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   17 repos            ████████░░░░░░░░░░░░░░░░░   33.33 % 
-C++                      11 repos            █████░░░░░░░░░░░░░░░░░░░░   21.57 % 
-JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
-TeX                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+Python                   17 repos            ████████░░░░░░░░░░░░░░░░░   34.00 % 
+C++                      11 repos            ██████░░░░░░░░░░░░░░░░░░░   22.00 % 
+JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+TeX                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
+CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
 ```
 
 
