@@ -55,11 +55,11 @@ Mac                      7 hrs 12 mins       ███████████�
 
 ✍️ 975 lines written by AI, 23 lines written by hand (97.7% AI-written)
 
-🔤 4,920,022 Input Tokens, 438,645 Output Tokens
+🔤 4,732,245 Input Tokens, 437,073 Output Tokens
 
-💵 $66.76 Estimated AI Cost This Week
+💵 $65.97 Estimated AI Cost This Week
 
-🧠 30 AI Sessions, 196 AI Prompts
+🧠 29 AI Sessions, 196 AI Prompts
 
 GPT                      990 lines           █████████████████████████   100.00 % 
 
