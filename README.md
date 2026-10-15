@@ -27,48 +27,48 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    6 hrs 27 mins       ██████████████░░░░░░░░░░░   56.23 % 
-Python                   2 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   21.46 % 
-YAML                     1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
-Markdown                 55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
-JSON                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
+Other                    9 hrs 43 mins       ███████████░░░░░░░░░░░░░░   44.95 % 
+Python                   8 hrs 29 mins       ██████████░░░░░░░░░░░░░░░   39.19 % 
+Markdown                 1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
+YAML                     1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
+JSON                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
 
 🔥 Editors: 
-Codex Vscode             10 hrs 10 mins      ██████████████████████░░░   88.54 % 
-VS Code                  1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
+Codex Vscode             19 hrs 40 mins      ███████████████████████░░   90.85 % 
+VS Code                  1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
 
 🐱‍💻 Projects: 
-evo 2                    5 hrs 50 mins       █████████████░░░░░░░░░░░░   50.78 % 
-MR Review                2 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
-投资                       1 hr 41 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
-量化软件构建                   44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
-new-chat                 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+evo 2                    9 hrs 46 mins       ███████████░░░░░░░░░░░░░░   45.17 % 
+llmserver                3 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
+量化软件构建                   3 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
+MR Review                2 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
+投资                       2 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
 
 💻 Operating System: 
-Mac                      11 hrs 29 mins      █████████████████████████   100.00 % 
+Mac                      21 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 23 mins (99.17%)
+⏱ AI Coding Time: 21 hrs 13 mins (97.99%)
 
-✍️ 2,296 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 5,390 lines written by AI, 4 lines written by hand (99.93% AI-written)
 
-🔤 9,868,998 Input Tokens, 890,552 Output Tokens
+🔤 18,491,730 Input Tokens, 1,927,736 Output Tokens
 
-💵 $130.81 Estimated AI Cost This Week
+💵 $193.75 Estimated AI Cost This Week
 
-🧠 62 AI Sessions, 233 AI Prompts
+🧠 72 AI Sessions, 271 AI Prompts
 
-GPT                      1,787 lines         ███████████████████░░░░░░   77.76 % 
-Codex-Vscode             511 lines           ██████░░░░░░░░░░░░░░░░░░░   22.24 % 
+GPT                      4,879 lines         ███████████████████████░░   90.52 % 
+Codex-Vscode             511 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 7,636 characters per prompt
+🤖 AI-Driven — 99.93% of written lines came from AI
+📚 Verbose Prompter — average 6,583 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.04% of changed lines were hand-edited
+🚀 High AI Trust — 0.2% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
